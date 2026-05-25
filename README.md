@@ -130,7 +130,6 @@ These outputs are written to the `output/` folder.
 
 ## Future improvements
 
-- HTML report generation
 - Unit tests for core functions
 - Support for compressed FASTA files
 - Sequence validation warnings
