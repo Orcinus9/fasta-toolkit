@@ -1,0 +1,15 @@
+fasta-toolkit/
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── sample_data/
+│   └── example.fasta
+├── output/
+├── fasta_toolkit/
+│   ├── __init__.py
+│   ├── cli.py
+│   ├── parser_utils.py
+│   ├── stats.py
+│   ├── filters.py
+│   └── report.py
+└── main.py

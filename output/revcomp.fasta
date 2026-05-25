@@ -1,0 +1,8 @@
+>seq1_revcomp reverse_complement_of_seq1
+ACGGTTACGCGCAT
+>seq2_revcomp reverse_complement_of_seq2
+TTTGCATNNNNNNGCAT
+>seq3_revcomp reverse_complement_of_seq3
+ATATATATATAT
+>seq1_revcomp reverse_complement_of_seq1
+TATGGGCCC
